@@ -12,7 +12,7 @@
 
 ## **구현 홈페이지**
 
-[https://www.codeit.kr/](https://6-studyforest-phytoncide-fs.netlify.app/)
+[공부의숲](https://6-studyforest-phytoncide-fs.netlify.app/)
 
 # 👥 **팀원 구성**
 
