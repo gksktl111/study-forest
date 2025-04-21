@@ -8,6 +8,14 @@
 
 [팀 협업 문서 바로가기](https://www.notion.so/2-1be5e940de598095a073da7e2f525e98)
 
+---
+
+## **구현 홈페이지**
+
+(개발한 홈페이지에 대한 링크 게시)
+
+https://www.codeit.kr/
+
 # 👥 **팀원 구성**
 
 <div align="center">
@@ -213,14 +221,6 @@ backend/
 ├── package.json      # 프로젝트 설정 및 의존성
 └── README.md
 ```
-
----
-
-## **구현 홈페이지**
-
-(개발한 홈페이지에 대한 링크 게시)
-
-https://www.codeit.kr/
 
 ---
 
